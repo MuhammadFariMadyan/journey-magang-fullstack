@@ -16,6 +16,8 @@ Bagaimana cara kamu menggunakan komputer sehari-hari? Mulai dari menekan tombol 
 
 Nah itulah algoritma, kumpulan proses ataupun aturan untuk melakukan atau menyelesaikan sesuatu. Sesuatu ini biasanya berupa masalah atau kegiatan yang langkah-langkahnya pasti terbatas (tidak terus-menerus).
 
+Menurut sumber yang lain Algoritma adalah langkah - langkah logis untuk menyelesaikan masalah secara sistematis.
+
 Dalam menggunakan bahasa pemrograman, kita bisa menggunakan atau bahkan tidak perlu menggunakan algoritma. Tapi hampir 99% pastinya perlu algoritma. Misalnya saja kita sudah tahu algoritma dasar dari perulangan dan perkondisian.
 
 Algoritma bisa sesederhana kita jabarkan langkah-langkahnya seperti tadi, atau kita visualisasikan dalam bentuk flowchart seperti berikut.

@@ -2,7 +2,7 @@
 
 ## Objectives
 
-* Baca dahulu: [Mengerti alur program dan pseudocode](https://github.com/MuhammadFariMadyan/journey-magang-fullstack/blob/master/Modules/algorithm-pseudocode.md)
+* Baca dahulu: [Belajar memahami alur program dan pseudocode](https://github.com/MuhammadFariMadyan/journey-magang-fullstack/blob/master/Modules/algorithm-pseudocode.md)
 * Mengerti Cara Menggunakan `If-Else`
 * Mengerti Logika `If-Else`
 * Mengerti Cara Menggunakan Operator Evaluasi `===`, `!==`

@@ -3,7 +3,7 @@
 ## Objectives
 
 * Mengerti cara *assignment* pada sebuah variabel
-* Mengerti cara memanggil data dengan variabel
+* Mengerti cara memanggil data sebuah variabel
 
 ## Directions
 

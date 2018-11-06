@@ -1,4 +1,4 @@
-# 4. Menggunakan If Else 2
+# Menggunakan If Else 2
 
 ## Objectives
 

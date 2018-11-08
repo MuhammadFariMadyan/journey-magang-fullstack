@@ -7,7 +7,12 @@ Materi & Referensi :
 [Memahami Tipe Data String pada JavaScript](modules/js-string-reference.md)
 
 # String
-Soal latihan string ini memiliki 4 nomor. Simpan di 1 file yang sama!
+Soal latihan string ini memiliki 4 nomor. Simpan dengan nama seperti berikut :
+- exercise_4_1.js
+- exercise_4_2.js
+- exercise_4_3.js
+- exercise_4_4.js
+
 ## 1. Let's Form a Sentence
 
 ### Problem

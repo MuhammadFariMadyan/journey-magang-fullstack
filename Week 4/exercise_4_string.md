@@ -1,7 +1,13 @@
+# Kamis - Mengenal Tipe data String
+
+Hari ini mari kita berkenalan dengan string  di JavaScript.
+
+Materi & Referensi :
+- :notebook_with_decorative_cover:
+[Memahami Tipe Data String pada JavaScript](modules/js-string-reference.md)
+
 # String
-
 Soal latihan string ini memiliki 4 nomor. Simpan di 1 file yang sama!
-
 ## 1. Let's Form a Sentence
 
 ### Problem

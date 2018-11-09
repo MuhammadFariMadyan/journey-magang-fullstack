@@ -9,6 +9,10 @@ Materi & Referensi :
 [Mempelajari Scope](../modules/js-scope.md)
 
 Tugas :
+Buat file seperti ini :
+- exercise_5_function_1.md
+- exercise_5_function_2.md
+- exercise_5_function_3.md
 
 - :anchor:
 [[**exercise_5_function.md**] Berlatih Penggunaan Functions](../modules/anchor-basic-function.md)
